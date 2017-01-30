@@ -9,11 +9,9 @@
     </author>
 	<plugin name="cordova-plugin-sms" source="npm" />
 	<gap:plugin name="cordova-plugin-sms" source="npm" />
-	
 	<gap:plugin name="onesignal-cordova-plugin-pgb-compat" source="npm" />
 	<gap:plugin name="cordova-plugin-android-support-v4" source="npm" />
 	<gap:plugin name="cordova-plugin-sms" source="npm" />
-	<vs:gap:plugin name="com.phonegap.plugins.PushPlugin" spec="^2.2.1" />
 	<plugin name="cordova-plugin-googleplayservices"/>
     <content src="index.html" />
 	
